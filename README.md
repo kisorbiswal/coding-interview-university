@@ -97,12 +97,102 @@ Stay a **Senior Software Developer with strong coding skills (Java, Springboot)*
 
 ---
 
-✨ If you'd like, I can create:  
-✅ A study calendar with **timelines and hours per day/week**  
-✅ A curated **project list to practice your skills**  
-✅ An example **Docker + Spring + ML microservice architecture**
+# 🔹 Senior Software Engineer (10+yrs) Interview Preparation Syllabus 🔹
 
-➡ Just let me know!  
+---
+
+## 🔹 Algorithm & Data Structures 🔹
+
+✅ **Array & HashTable**   
+✅ **Sliding Window / Two Pointers**   
+✅ **Sorting & Searching**   
+✅ **Graphs & Trees**   
+✅ **Dynamic Programming**   
+✅ **Heap, Stack, Queue, Trie**   
+✅ **Thread-safe coding (concurrency primitives)**  
+
+---
+
+## 🔹 LeetCode List (50 problems) 🔹  
+
+### Medium
+- [Two Sum](https://leetcode.com/problems/two-sum/)   
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)   
+- [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)   
+- [Group Anagrams](https://leetcode.com/problems/group-anagrams/)   
+- [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)   
+- [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   
+- [Clone Graph](https://leetcode.com/problems/clone-graph/)   
+- [Word Ladder](https://leetcode.com/problems/word-ladder/)   
+- [Subset Sum (Subset II, backtrack)](https://leetcode.com/problems/subsets-ii/)   
+- [Decode Ways](https://leetcode.com/problems/decode-ways/)   
+- [Unique Paths](https://leetcode.com/problems/unique-paths/)   
+- [Word Search](https://leetcode.com/problems/word-search/)   
+- [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)   
+- [Contiguous Array](https://leetcode.com/problems/contiguous-array/)   
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)   
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/)   
+- [LRU Cache](https://leetcode.com/problems/lru-cache/)   
+- [Zigzag Conversion](https://leetcode.com/problems/zigzag-converted/)   
+- [Rotate Image](https://leetcode.com/problems/rotate-image/)   
+- [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)    
+
+---
+
+### Hard
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)   
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)   
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)   
+- [Word Break II](https://leetcode.com/problems/word-break-II/)   
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)   
+- [Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)   
+- [Vertical Order Traversal of Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-binary-tree/)   
+- [N-Queens](https://leetcode.com/problems/n-queens/)   
+- [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)   
+- [The Dining Philosophers (Thread-safe coding)](https://leetcode.com/problems/the-dining-philosophers/)    
+
+---
+
+## 🔹 System Design Question List (10 realistic questions) 🔹  
+
+✅ **Design Instagram** (feed, stories, follow)   
+✅ **Design Netflix** (movie delivery, recommendations, scaling)   
+✅ **Design URL Shortener (bitly)**   
+✅ **Design Facebook Messenger or WhatsApp**   
+✅ **Design Collaborative Text editor (like Google Docs)**   
+✅ **Design ride-sharing platform (Uber/Lyft)**   
+✅ **Design hotel booking platform (Booking.com)**   
+✅ **Design e-commerce platform (Amazon)**   
+✅ **Design a news feed with pagination and ranking algorithm**   
+✅ **Design a rate limiter service for API requests**    
+
+---
+
+## 🔹 Study Calendar (6–8 weeks) 🔹    
+
+> **Week 1–2:**   
+- LeetCode Medium (15) + 1-2 Hard per weekend   
+- Begin reading **Designing Data-Intensive Applications** or blogs   
+- Implement a small multithreading service in Java (Executor, CompletableFuture)    
+
+> **Week 3–4:**   
+- Finish rest of Medium + additional 2-3 Hard problems   
+- Mock interviewing with a friend or colleague   
+- Prepare a few System Design scenarios (Instagram, Netflix, URL Shortener)    
+
+> **Week 5–6:**   
+- Focus on hard problems   
+- Implement small prototypes related to your portfolio (Rate limiter, cache, pagination service)   
+- Perform a simulated interview with a colleague or online service (Pramp, Interviewing.io)    
+
+> **Week 7–8:**   
+- Final revision   
+- Gather clear explanations for your previous solutions   
+- Prepare stories demonstrating your interpersonal skills, mentoring, architecture decisions, etc.   
+- Reduce stress — make sure you’re well rested before the actual interview    
+
+---
+
 
 # Coding Interview University
 
