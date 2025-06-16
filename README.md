@@ -1,3 +1,109 @@
+# Senior Developer’s Roadmap (with ML & Architectural fundamentals)
+
+## 🔹 Overall Goal 🔹
+
+Stay a **Senior Software Developer with strong coding skills (Java, Springboot)**, while **building expertise in Machine Learning fundamentals and Large Language Models** to aid in designing and developing enterprise applications.
+
+---
+
+## 🔹 1️⃣ Data Structures & Algorithm fundamentals 🔹
+
+✅ Implement fundamentals (arrays, trees, graphs, heaps, hash maps)  
+✅ Practice algorithm problems (Sorting, Searching, DFS, BFS, Memoization, Two Pointers)  
+✅ LeetCode (Medium to Hard) — aim for at least **100 problems**   
+✅ [LeetCode](https://leetcode.com/)  
+✅ [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+
+---
+
+## 🔹 2️⃣ System Design 🔹
+
+✅ Architectural patterns (Monolith vs Microservice)  
+✅ Database scaling (ACID, sharding, pagination, pagination strategies)  
+✅ Caching (Redis, Memcached)  
+✅ API Gateway, Load Balancing, Security, Auth, RBAC  
+✅ Architectural components (Docker, Kubernetes, CI, CD)
+
+**Resources:**  
+- *Designing Data-Intensive Applications* by Martin Kleppmann
+- [Interview System Design Playlist (Grokking/Exponent)](https://www.youtube.com/playlist?list=PLqzv9vYjZU9vDcELvFlvsAaE5Mv04vsTY)
+- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+---
+
+## 🔹 4️⃣ Java and Spring Boot 🔹
+
+✅ Spring Framework fundamentals (IOC, DI, AOP, Transactions)  
+✅ Spring Boot (Actuator, Security, Spring Data, WebFlux)  
+✅ Database persistence with Spring Data JPA or JDBC  
+✅ Exception Handling, Validation, Exception Mapping  
+✅ Multi-layer architecture (Controller, Service, Repository)
+
+**Resources:**  
+- [Spring Framework](https://spring.io/projects/spring-framework)  
+- [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/current/reference/html/)  
+- [Baeldung Spring Guides](https://www.baeldung.com/)  
+- [Java Concurrency and Multithreading (Effective Java, Brian Goetz)]
+
+---
+
+## 🔹 5️⃣ Machine Learning fundamentals 🔹
+
+✅ Linear Algebra, Calculus, and Probability fundamentals  
+✅ Logistic Regression, Decision Trees, Neural Networks, CNNs, RNNs
+✅ Loss functions, backpropagation, overfitting, underfitting  
+✅ Evaluation metrics (Accuracy, F1, AUC)  
+✅ Introduction to Scikit-Learn
+
+**Resources:**  
+- [Introduction to Machine Learning with Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)  
+- [Mathematics for Machine Learning](https://mml-book.github.io/)  
+
+---
+
+## 🔹 6️⃣ Large Language Models 🔹
+
+✅ Transformer architecture (self-attention, multi-head)  
+✅ Tokenization (BPE, WordPiece)  
+✅ Pretraining vs fine-tuning  
+✅ Few-shot, zero-shot, and prompting techniques  
+✅ RLHF (Reinforcement from Human Feedback) fundamentals  
+
+**Resources:**  
+- [Generative Deep Learning by David Foster](https://www.oreilly.com/library/view/generative-deep-learning/9781492044235/)  
+- [Build a Large Language Model by Sebastian Raschka]  
+- [Hugging Face Course](https://hf.co/course/chapter1)  
+
+---
+
+## 🔹 7️⃣ Operations & MLOps 🔹 (for a Senior Developer)
+
+✅ Containerization (Docker)  
+✅ Orchestration (Docker Compose, Kubernetes)  
+✅ Model Deployment (API, gRPC, TF Serving)  
+✅ Model Versioning, A/B testing, Canary rollout  
+✅ Security, Authentication, and Audits for ML services
+
+**Resources:**  
+- [AI Engineering by Chip Huyen]  
+- [Full Stack Machine Learning](https://fullstackdeeplearning.net/)  
+
+---
+
+## 🔹 Summary 🔹
+
+✅ **Your role:** Senior Developer with strong coding fundamentals, extensive architecture knowledge, and operational expertise — plus a clear understanding of ML fundamentals.  
+✅ **Your trajectory:** Implement and deploy ML-assisted services safely, efficiently, and at scale.
+
+---
+
+✨ If you'd like, I can create:  
+✅ A study calendar with **timelines and hours per day/week**  
+✅ A curated **project list to practice your skills**  
+✅ An example **Docker + Spring + ML microservice architecture**
+
+➡ Just let me know!  
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
